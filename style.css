@@ -122,7 +122,7 @@ body {
 
 .header-logo img{
   width: 60px;
-  height: 50px;
+  /* height: 50px; */
 }
 /* home main styles */
 
@@ -456,5 +456,9 @@ span {
 #footer .download img{
   border: 1px solid #08817969;
   border-radius: 7px;
+}
+#footer .contact img {
+  width: 150px; /* adjust as needed */
+  height: auto;
 }
 
